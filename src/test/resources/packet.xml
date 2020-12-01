@@ -1,0 +1,20 @@
+<packet xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://www.1c-esb.ru/ExchangeTypes/1.0">
+  <header>
+    <transportUUID>45bf3e3b-9ce9-498b-af3c-ee336ddc542d</transportUUID>
+    <destination>
+      <id>ak-test</id>
+      <type>system.name</type>
+    </destination>
+  </header>
+  <message>
+    <messageUUID>efd7d562-9fc4-11ea-bb37-0242ac130002</messageUUID>
+    <messageType>&#x412;&#x44b;&#x433;&#x440;&#x443;&#x437;&#x43a;&#x430;&#x414;&#x430;&#x43d;&#x43d;&#x44b;&#x445;&#x41a;&#x430;&#x43d;&#x43e;&#x43d;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x439;&#x424;&#x43e;&#x440;&#x43c;&#x430;&#x442;</messageType>
+    <priority>4</priority>
+    <source>
+      <id>ak-test</id>
+      <type>system.name</type>
+    </source>
+    <contentType>application/xml</contentType>
+    <content>dfsfsdf   </content>
+  </message>
+</packet>

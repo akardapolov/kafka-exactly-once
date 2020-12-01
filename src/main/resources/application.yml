@@ -1,0 +1,12 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: kafka_exactly_once
+
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+      topic: packet-topic
+      group: packet-group
